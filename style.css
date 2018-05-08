@@ -1,0 +1,41 @@
+.container-fluid {
+    background: orange;
+    outline: .1px double rgb(214, 7, 169);
+    padding: 1%;
+}
+
+.jumbotron {
+background-image: url("https://metrouk2.files.wordpress.com/2017/04/pri_37587483-e1493206846948.jpg?w=748&h=501&crop=1");
+    background-size: 100%;
+    background-blend-mode: color
+    background-repeat:no-repeat;
+    display: compact;
+    color: rgb(241, 243, 243);
+}
+
+h2 {
+    text-align: right;
+    font-family: Cambria;
+    color: white
+}
+
+h1 {
+    text-align: center;
+    font-family: impact;
+    color: orange 
+}
+
+p {
+    text-align: center;
+}
+.span6 {
+    style="float: none;
+    margin: 0 auto;
+
+th {
+    color: blue;
+
+}
+
+    
+  }
